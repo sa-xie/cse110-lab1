@@ -3,6 +3,7 @@ My favorite coding language is C!
 ## About
 I'm a 2nd year student at **UCSD** currently majoring in ***Computer Science*** and ***Applied Mathematics***. I enjoy hiking and being active, ~~especially with my younger siblings~~. Here is a quote that I strive to live by:  
 > **“When I have *tried* and failed, I shall have failed.”**  
+  
 Places I have lived:  
 1. Arizona
 2. Washington
@@ -34,7 +35,10 @@ echo hello world
 echo goodbye world
 ```
   
-Here is a link to a story that I wrote: [Changeling](changeling.md) 
+Here is a link to a story that I wrote: [Changeling](changeling.md)   
+
 And a picture I took:
+  
 ![Geisel library](lib.jpeg)
+  
 Thanks for visiting!
