@@ -1,6 +1,6 @@
 # Changeling
 
-->Leah coos at the child in her arms. Earthy brown eyes stare back as Lilith laughs at her mother. When Leah yawns, the child responds in kind. She opens her mouth wide before continuing to giggle.  
+Leah coos at the child in her arms. Earthy brown eyes stare back as Lilith laughs at her mother. When Leah yawns, the child responds in kind. She opens her mouth wide before continuing to giggle.  
 
 Despite the days growing longer, the evening breeze is still cold. It’s a wonder Lilith hasn’t been sick yet. Leah hums a lullaby. Three months was too early to tell though. Infants were delicate, and she wouldn’t be the first in the village to lose their child by winter.  
 
@@ -170,5 +170,5 @@ The word echoes in her mind throughout the evening. Lilith's sharp voice and cle
 
 Blue. Leah swears she sees a flash of blue. She sits up. It can’t be. With a heart full of doubt and eyes full of hate, Leah is blind to Lilith’s earthy brown eyes.  
 
-"Changeling."  <-
+"Changeling."  
   
