@@ -22,9 +22,9 @@ Things on my desk right now:
   
 Things that I need to do:  
 - [x] Finish this lab
-- [] Read textbooks
-- [] Do homework
-- [] I'm sure I'm forgetting some
+- [ ] Read textbooks
+- [ ] Do homework
+- [ ] I'm sure I'm forgetting some
   
 @sa-xie is my handle
   
